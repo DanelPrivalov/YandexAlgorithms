@@ -5,7 +5,6 @@ import java.util.Scanner;
 public class Task0 {
 
 //    Вывод ромба со сторонами Х и Y за один цикл
-
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Input height: ");
