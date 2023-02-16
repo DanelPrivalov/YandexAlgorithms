@@ -2,7 +2,7 @@ package org.example.VK;
 
 public class VK3 {
     public static void main(String[] args) {
-        char[] initial = new char[]{'a','b','a','b','b','b','c','c','c','b','b','m','m'};
+        char[] initial = new char[]{'a','a','b','b','c','c','c'};
         System.out.println(compress(initial));
     }
     public static int compress(char[] chars) {
