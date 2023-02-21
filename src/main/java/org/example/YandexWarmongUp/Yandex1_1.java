@@ -1,4 +1,4 @@
-package org.example;
+package org.example.YandexWarmongUp;
 import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.IOException;
@@ -16,7 +16,7 @@ import java.util.*;
 // Гистограмма — это график, в котором каждому символу, встречающемуся в сообщении хотя бы один раз, соответствует столбик,
 // высота которого пропорциональна количеству этих символов в сообщении.
 
-public class Task3 {
+public class Yandex1_1 {
     public static void main(String[] args) throws IOException{
         HashMap<String, Integer> map = new HashMap<>();
         int maxSymCount = 0;

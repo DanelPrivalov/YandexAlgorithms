@@ -1,4 +1,4 @@
-package org.example;
+package org.example.YandexWarmongUp;
 
 import java.util.Arrays;
 import java.util.Scanner;
@@ -8,7 +8,7 @@ import java.util.Scanner;
 // чем pi. Напишите программу, которая поможет каждому из коллекционеров определить, сколько недостающих ему наклеек есть у Диего. Разумеется, гостей Диего не
 // интересуют повторные экземпляры наклеек.
 
-public class Task4 {
+public class Yandex1_3 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int diegoAmount = scanner.nextInt();

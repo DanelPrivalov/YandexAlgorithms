@@ -1,8 +1,8 @@
-package org.example.VK;
+package org.example.Dzen;
 
 import java.util.Arrays;
-
-public class VK7 {
+//66
+public class Dzen7 {
     public static void main(String[] args) {
         int [] digits = new int[]{9,7,9,8};
         System.out.println(Arrays.toString(plusOne(digits)));
@@ -22,7 +22,6 @@ public class VK7 {
             else {
                 digits[i]++;
             }
-
         }
         else{
             digits[digits.length-1]++;

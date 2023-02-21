@@ -1,11 +1,8 @@
-package org.example.VK;
+package org.example.Dzen;
 
-import java.util.Arrays;
-import java.util.HashSet;
-import java.util.LinkedHashSet;
 import java.util.Scanner;
-
-public class VK4 {
+//3
+public class Dzen4 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         String input = scanner.nextLine();

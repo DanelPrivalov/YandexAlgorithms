@@ -1,8 +1,8 @@
-package org.example;
+package org.example.YandexWarmongUp;
 
 import java.util.Scanner;
 
-public class Task5 {
+public class Yandex1_4 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int N = scanner.nextInt();

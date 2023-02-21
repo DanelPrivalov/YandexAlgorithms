@@ -1,6 +1,6 @@
-package org.example.VK;
-
-public class VK3 {
+package org.example.Dzen;
+//443
+public class Dzen3 {
     public static void main(String[] args) {
         char[] initial = new char[]{'a','a','b','b','c','c','c'};
         System.out.println(compress(initial));

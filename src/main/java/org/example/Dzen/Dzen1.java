@@ -1,9 +1,9 @@
-package org.example.VK;
+package org.example.Dzen;
 
 //Палиндром
 import java.util.Scanner;
-
-public class VK1 {
+//125
+public class Dzen1 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         String s = scanner.nextLine();
@@ -18,6 +18,7 @@ public class VK1 {
             if (syms[i]!=syms[syms.length-1-i]){
                 return false;
             }
+
         }
         return true;
     }

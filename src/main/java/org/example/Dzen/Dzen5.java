@@ -1,6 +1,6 @@
-package org.example.VK;
-
-public class VK5 {
+package org.example.Dzen;
+//941
+public class Dzen5 {
     public static void main(String[] args) {
         int[] arr = new int[]{1, 2, 3, 5, 4, 6};
         System.out.println(validMountainArray(arr));
